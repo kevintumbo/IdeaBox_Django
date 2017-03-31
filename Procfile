@@ -1,1 +1,1 @@
-web: gunicorn ideabox.wsgi
+web: gunicorn Ideabox.wsgi
